@@ -1,0 +1,11 @@
+{
+  "name": "connect-ipfilter",
+  "author": "Alexa Grey <devel@mouse.vc>",
+  "description": "Lightweight, rule-based, redis-backed IP filter.",
+  "version": "0.0.1-alpha",
+  "main": "./connect-ipfilter.js",
+  "dependencies": {
+    "redis": "0.7.2",
+    "lodash": "~0.5"
+  }
+}
